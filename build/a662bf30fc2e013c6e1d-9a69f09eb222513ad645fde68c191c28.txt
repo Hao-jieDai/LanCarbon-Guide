@@ -1,0 +1,10 @@
+LanCarbon Phase 3 Acceptance Checklist
+======================================
+
+This managed attachment is used to verify:
+1. The attachment remains available after LanCarbon restarts.
+2. Resources can locate the file and show its Book reference.
+3. Save a copy preserves the original UTF-8 contents.
+4. Book export copies the file into the exported assets folder.
+
+Prepared for LanCarbon 2.1.0 Phase 3 and Phase 4 acceptance.

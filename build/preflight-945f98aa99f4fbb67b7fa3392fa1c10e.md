@@ -1,0 +1,24 @@
+---
+title: Book Preflight
+label: lancarbon-phase4-preflight
+---
+
+## English
+
+### Run the check
+
+Open a Book and choose Build. LanCarbon checks every page before it starts Jupyter Book. The panel groups errors and warnings and shows the page and line when available. Select a located issue to open that page in Edit.
+
+Errors block Build. They include invalid or duplicate export paths, missing pages, unsupported Notebook pages, malformed YAML frontmatter, duplicate or unresolved common cross-references, missing citation keys, and missing or damaged managed resources. Warnings identify empty pages, a missing Book author, or other items that can still produce a website.
+
+The preflight is intentionally conservative. The official strict Jupyter Book build remains the final syntax check and can report MyST features that the local checker does not interpret.
+
+## 中文
+
+### 运行检查
+
+打开一本 Book 并点击 Build。LanCarbon 会在启动 Jupyter Book 前检查全部页面。面板按错误和警告显示结果；能够定位时会显示页面与行号，点击该项可在 Edit 中打开对应页面。
+
+错误会阻止 Build，包括无效或重复导出路径、页面缺失、尚不支持的 Notebook 页面、YAML frontmatter 格式错误、常见交叉引用重复或无法解析、引用键缺失，以及受管理资源缺失或损坏。警告包括空页面、未填写 Book 作者等仍可生成网站的项目。
+
+预检采用谨慎规则，最终语法结果仍以官方 Jupyter Book 严格构建为准；CLI 可能发现本地检查器未解释的 MyST 功能。

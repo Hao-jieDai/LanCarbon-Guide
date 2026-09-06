@@ -1,0 +1,116 @@
+---
+title: Getting Started
+short_title: Getting Started
+description: An introduction to LanCarbon Books, Sections and Child Pages.
+date: 2026-09-02
+keywords:
+  - getting started
+  - section
+  - child page
+  - table of contents
+label: getting-started
+---
+
+## English
+
+LanCarbon provides two writing spaces: **Notes** and **Jupyter Book**.
+
+Notes are independent documents. A Book organizes documents into a hierarchy that can be exported as a Jupyter Book 2 website.
+
+### What is a Section?
+
+A Section is a real page that introduces a group of related pages.
+
+A Section:
+
+- Has its own title and Markdown content
+- Has its own Export Path
+- Can appear in the table of contents
+- Can contain Child Pages
+- Is exported as a real Markdown file
+
+For example, **Getting Started** is a Section. This page introduces the guide, while **Notes and Books** provides more detailed information below it.
+
+### What is a Child Page?
+
+A Child Page is a page placed below another page.
+
+A Child Page:
+
+- Has its own title and content
+- Can have Page Properties
+- Can contain additional Child Pages
+- Can be moved to another position
+- Is exported as a real Markdown file
+
+### Creating the hierarchy
+
+1. Select the page that should become the parent.
+2. Select **Child Page**.
+3. Edit the new page title and content.
+4. Drag the page to adjust its position if necessary.
+
+Select **Section** when you want to create a new top-level chapter.
+
+### Dragging pages
+
+Every page except the Book home page can be dragged.
+
+- Drop near the top of a target page to place it before the target.
+- Drop near the center to make it a child of the target.
+- Drop near the bottom to place it after the target.
+
+The Book home page remains fixed because every exported Jupyter Book requires a stable homepage.
+
+---
+
+## 中文
+
+LanCarbon 提供两种写作空间：**Notes** 和 **Jupyter Book**。
+
+Notes 是相互独立的文档。Book 则把文档组织成树形结构，并可以导出为 Jupyter Book 2 网站项目。
+
+### 什么是 Section？
+
+Section 是一个用于介绍一组相关页面的真实页面。
+
+Section：
+
+- 拥有自己的标题和 Markdown 正文
+- 拥有自己的 Export Path
+- 可以显示在目录中
+- 可以包含 Child Page
+- 导出后是一个真实的 Markdown 文件
+
+例如，**Getting Started** 就是一个 Section。本页面负责介绍使用方法，而下面的 **Notes and Books** 页面提供更详细的说明。
+
+### 什么是 Child Page？
+
+Child Page 是放在另一个页面下面的子页面。
+
+Child Page：
+
+- 拥有自己的标题和正文
+- 可以设置 Page Properties
+- 还可以继续包含下一层 Child Page
+- 可以拖动到其他位置
+- 导出后也是一个真实的 Markdown 文件
+
+### 创建目录层级
+
+1. 先选择需要作为父级的页面。
+2. 点击 **Child Page**。
+3. 修改新页面的标题和正文。
+4. 如果位置不合适，可以通过拖拽重新调整。
+
+需要创建新的顶层章节时，使用 **Section**。
+
+### 拖拽页面
+
+除 Book 首页外，其他页面都可以拖动。
+
+- 拖到目标页面上部：放在目标之前。
+- 拖到目标页面中部：成为目标的子页面。
+- 拖到目标页面下部：放在目标之后。
+
+Book 首页保持固定，因为每个导出的 Jupyter Book 都需要一个稳定的首页。

@@ -1,0 +1,24 @@
+---
+title: Local Website
+label: lancarbon-phase4-website
+---
+
+## English
+
+### Start, open and stop
+
+A successful Build starts the saved website automatically. Select its 127.0.0.1 address or Open Website to open it in your normal browser. LanCarbon chooses a free port, so an existing service on port 3000 is not interrupted. Only this computer can reach the address.
+
+Stop Website ends the local service without deleting the build. Start Website serves the same saved _build/html again without rebuilding. After restarting LanCarbon, open Build and select Start Website to restore an address for the last successful build.
+
+Rebuilding keeps the previous website available until the new strict build succeeds. The local address is a viewing service, while the managed build folder is the durable copy. Closing LanCarbon stops its website services; it does not delete the saved files.
+
+## 中文
+
+### 启动、打开与停止
+
+Build 成功后会自动启动已保存的网站。点击 127.0.0.1 地址或 Open Website，可在默认浏览器中打开。LanCarbon 自动选择空闲端口，不会中断已经占用 3000 端口的服务；该地址只能由当前电脑访问。
+
+Stop Website 只停止本地服务，不删除构建结果。Start Website 可以直接重新提供同一份 _build/html，无需再次构建。重启 LanCarbon 后，打开 Build 并点击 Start Website，即可为上一次成功构建恢复网址。
+
+重新构建时，上一次网站会保留到新的严格构建成功为止。本地网址用于查看，受管理构建文件夹才是长期保存的副本。关闭 LanCarbon 会停止由它启动的网站服务，但不会删除保存的文件。
