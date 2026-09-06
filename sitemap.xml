@@ -1,76 +1,91 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet type="text/xsl" href="http://localhost:3000/sitemap_style.xsl" ?>
+<?xml-stylesheet type="text/xsl" href="http://localhost:3002/sitemap_style.xsl" ?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>http://localhost:3000</loc>
+    <loc>http://localhost:3002</loc>
   </url>
   <url>
-    <loc>http://localhost:3000/index-1</loc>
+    <loc>http://localhost:3002/index-1</loc>
   </url>
   <url>
-    <loc>http://localhost:3000/notes-and-books</loc>
+    <loc>http://localhost:3002/notes-and-books</loc>
   </url>
   <url>
-    <loc>http://localhost:3000/index-2</loc>
+    <loc>http://localhost:3002/index-2</loc>
   </url>
   <url>
-    <loc>http://localhost:3000/book-settings</loc>
+    <loc>http://localhost:3002/book-settings</loc>
   </url>
   <url>
-    <loc>http://localhost:3000/page-properties</loc>
+    <loc>http://localhost:3002/page-properties</loc>
   </url>
   <url>
-    <loc>http://localhost:3000/export</loc>
+    <loc>http://localhost:3002/export</loc>
   </url>
   <url>
-    <loc>http://localhost:3000/index-3</loc>
+    <loc>http://localhost:3002/index-3</loc>
   </url>
   <url>
-    <loc>http://localhost:3000/codemirror-editor</loc>
+    <loc>http://localhost:3002/codemirror-editor</loc>
   </url>
   <url>
-    <loc>http://localhost:3000/mathematics</loc>
+    <loc>http://localhost:3002/mathematics</loc>
   </url>
   <url>
-    <loc>http://localhost:3000/directives</loc>
+    <loc>http://localhost:3002/directives</loc>
   </url>
   <url>
-    <loc>http://localhost:3000/references</loc>
+    <loc>http://localhost:3002/references</loc>
   </url>
   <url>
-    <loc>http://localhost:3000/syntax-lab</loc>
+    <loc>http://localhost:3002/syntax-lab</loc>
   </url>
   <url>
-    <loc>http://localhost:3000/phase-2d-acceptance</loc>
+    <loc>http://localhost:3002/phase-2d-acceptance</loc>
   </url>
   <url>
-    <loc>http://localhost:3000/index-4</loc>
+    <loc>http://localhost:3002/index-4</loc>
   </url>
   <url>
-    <loc>http://localhost:3000/images</loc>
+    <loc>http://localhost:3002/images</loc>
   </url>
   <url>
-    <loc>http://localhost:3000/attachments</loc>
+    <loc>http://localhost:3002/attachments</loc>
   </url>
   <url>
-    <loc>http://localhost:3000/citations</loc>
+    <loc>http://localhost:3002/citations</loc>
   </url>
   <url>
-    <loc>http://localhost:3000/acceptance</loc>
+    <loc>http://localhost:3002/acceptance</loc>
   </url>
   <url>
-    <loc>http://localhost:3000/index-5</loc>
+    <loc>http://localhost:3002/index-5</loc>
   </url>
   <url>
-    <loc>http://localhost:3000/preflight</loc>
+    <loc>http://localhost:3002/preflight</loc>
   </url>
   <url>
-    <loc>http://localhost:3000/build</loc>
+    <loc>http://localhost:3002/build</loc>
   </url>
   <url>
-    <loc>http://localhost:3000/website</loc>
+    <loc>http://localhost:3002/website</loc>
   </url>
   <url>
-    <loc>http://localhost:3000/acceptance-1</loc>
+    <loc>http://localhost:3002/acceptance-1</loc>
+  </url>
+  <url>
+    <loc>http://localhost:3002/index-6</loc>
+  </url>
+  <url>
+    <loc>http://localhost:3002/readiness</loc>
+  </url>
+  <url>
+    <loc>http://localhost:3002/github-pages</loc>
+  </url>
+  <url>
+    <loc>http://localhost:3002/publish</loc>
+  </url>
+  <url>
+    <loc>http://localhost:3002/acceptance-2</loc>
   </url>
 </urlset>

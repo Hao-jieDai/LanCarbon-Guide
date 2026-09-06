@@ -1,0 +1,38 @@
+---
+title: Publish and Update Website
+label: lancarbon-phase5-publish
+---
+
+## English
+
+### First publish
+
+Build the Book successfully, open Publish, and confirm Git, GitHub CLI, account, build, repository and Pages all pass. Select Publish Website. LanCarbon downloads the connected publication branch into a temporary folder, replaces its website files with the saved _build/html output, adds .nojekyll, creates one Git commit and pushes it to the configured branch.
+
+The local managed build and Book source stay unchanged. The temporary publishing folder is removed after success or failure. Publishing updates only the selected Book's connected branch; it does not delete the repository or alter other branches.
+
+### Later updates
+
+After editing, run Build again first, then select Update Website. If the built files changed, LanCarbon creates and pushes a new commit. If they are identical, no empty commit is created. The panel stores the verified commit and publication time and compares that commit with GitHub during later checks.
+
+GitHub Pages may need a short time to show a new commit. Open Repository to inspect the branch or Open Pages to view the public site. A failed clone, commit or push leaves the remote website at its previous successful revision and reports the failed step.
+
+## 中文
+
+### 首次发布
+
+先成功 Build Book，再打开 Publish，确认 Git、GitHub CLI、账号、构建、仓库和 Pages 均通过。点击 Publish Website 后，LanCarbon 会把已连接的发布分支下载到临时目录，用保存的 _build/html 替换其中的网站文件，加入 .nojekyll，创建一次 Git 提交并推送到指定分支。
+
+本地受管理构建与 Book 源文件不会改变。无论成功或失败，临时发布目录都会清理。发布只更新当前 Book 连接的分支，不会删除仓库，也不会修改其他分支。
+
+### 后续更新
+
+修改内容后先重新 Build，再点击 Update Website。构建文件有变化时，LanCarbon 会创建并推送新提交；内容完全相同时不会制造空提交。面板保存已核实的提交编号和发布时间，后续检查时会与 GitHub 上的分支进行比较。
+
+GitHub Pages 显示新提交可能需要短暂时间。Open Repository 可检查分支，Open Pages 可打开公开网站。下载、提交或推送失败时，远端网站仍停留在上一次成功版本，面板会指出失败步骤。
+
+### GitHub Pages subpath / GitHub Pages 子路径
+
+For a project site such as `owner.github.io/repository`, LanCarbon creates a separate publication build with `BASE_URL=/repository`. This makes styles, scripts, navigation and search work below the GitHub Pages subpath without changing the root-based local website.
+
+对于 `owner.github.io/repository` 形式的项目站点，LanCarbon 会使用 `BASE_URL=/repository` 创建独立的发布构建，使样式、脚本、导航和搜索能够在 GitHub Pages 子路径下工作，同时不改变从根地址访问的本地网站。
