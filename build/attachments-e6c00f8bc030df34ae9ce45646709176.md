@@ -3,7 +3,6 @@ title: Attachments and Resource Export
 label: lancarbon-phase3-attachments
 ---
 
-## English
 
 ### Attach and manage files
 
@@ -26,7 +25,7 @@ Data Location migration also copies the resource catalog and files. For backups,
 3. Reuse a resource on a nested Book page and inspect its references.
 4. Export, build, move the export and verify both links again.
 
-## 中文
+
 
 ### 插入和管理附件
 

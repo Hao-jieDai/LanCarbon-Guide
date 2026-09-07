@@ -3,10 +3,9 @@ title: Phase 5 Reference
 label: lancarbon-phase5-index
 ---
 
-## English
 
 Phase 5 moves a successfully built local Book toward a durable online website. Phase 5A checks publishing readiness; Phase 5B connects GitHub Pages; Phase 5C publishes and updates the built website; Phase 5D verifies the complete online workflow.
 
-## 中文
+
 
 Phase 5 把已经成功构建的本地 Book 进一步变成可长期访问的在线网站。Phase 5A 检查发布环境；Phase 5B 连接 GitHub Pages；Phase 5C 发布并更新构建网站；Phase 5D 验收完整在线流程。

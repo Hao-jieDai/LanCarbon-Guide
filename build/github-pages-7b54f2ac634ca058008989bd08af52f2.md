@@ -3,7 +3,6 @@ title: GitHub and Pages Setup
 label: lancarbon-phase5-github-pages
 ---
 
-## English
 
 ### Connect an existing repository
 
@@ -17,7 +16,7 @@ The connected repository URL is also written to Book settings and exported metad
 
 Phase 5A and 5B stop after environment checks, repository binding and Pages initialization. Publishing or updating the generated Book website belongs to Phase 5C.
 
-## 中文
+
 
 ### 连接已有仓库
 

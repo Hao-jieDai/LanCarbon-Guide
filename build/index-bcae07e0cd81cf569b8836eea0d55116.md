@@ -3,11 +3,10 @@ title: Phase 3 Reference
 label: lancarbon-phase3-index
 ---
 
-## English
 
 Phase 3A and 3B add managed images, screenshots, attachments and portable resource export. Read the two pages below. Phase 3C bibliography management is still planned.
 
-## 中文
+
 
 Phase 3A、3B 补充图片、截图、附件和可移动的资源导出。请阅读下方两篇教程；Phase 3C 文献管理尚待实现。
 

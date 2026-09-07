@@ -3,7 +3,6 @@ title: Citations and Bibliographies
 label: lancarbon-phase3-citations
 ---
 
-## English
 
 ### Import and cite
 
@@ -15,7 +14,7 @@ LanCarbon writes standard MyST/Pandoc syntax: `@key` for narrative citations and
 
 Export adds the managed .bib path to project.bibliography in myst.yml and copies the source into assets/. Missing or duplicate citation keys stop export. The official Jupyter Book build produces the final citations and bibliography.
 
-## 中文
+
 
 ### 导入与引用
 

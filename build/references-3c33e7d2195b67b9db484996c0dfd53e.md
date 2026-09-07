@@ -3,7 +3,6 @@ title: Cross References
 label: phase-2-references
 ---
 
-## English
 
 ### 1. Cross References
 
@@ -21,7 +20,7 @@ The ref, eq and numref roles are also accepted. For example, {eq}`guide-carbon-b
 
 Missing or ambiguous references are marked and listed under Preview notices; they do not silently jump to an arbitrary page. Ordinary Notes resolve their own targets only. External links cannot navigate the Electron window. Equation numbering here is local to each page; verify final publication with Jupyter Book.
 
-## 中文
+
 
 ### 1. Cross References / 中文
 

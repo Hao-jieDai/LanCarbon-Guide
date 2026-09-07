@@ -3,7 +3,6 @@ title: Editing and Formatting
 label: codemirror-editor
 ---
 
-## English
 
 ### 1. CodeMirror Editor
 
@@ -98,7 +97,7 @@ With no selection, inline formatting inserts markers and places the cursor betwe
 
 Select Chinese and English text and try the controls. Narrow and widen the window: ordinary controls should reappear as space becomes available, while Directives stays separate. Verify x²/x₂ icons, Apply/Cancel, undo/redo and persistence after restart. Continue with Tables and Mathematics and Directives and Roles.
 
-## 中文
+
 
 ### 1. CodeMirror Editor / 中文
 

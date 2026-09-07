@@ -14,7 +14,6 @@ keywords:
 label: book-settings
 ---
 
-## English
 
 Book Settings describe the complete Book and generated website.
 
@@ -105,7 +104,7 @@ Phase 1 does not copy the favicon automatically. Leave this field empty unless t
 
 ---
 
-## 中文
+
 
 Book Settings 用来描述整本 Book 和最终生成的网站。
 

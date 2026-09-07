@@ -3,7 +3,6 @@ title: Tables and Mathematics
 label: phase-2-mathematics
 ---
 
-## English
 
 ### 1. Mathematics and Equations
 
@@ -47,7 +46,7 @@ The preview renders offline as you type. Correct invalid formulas before applyin
 
 Create a two-column table, right-align the numeric column, apply it and reopen it to change a cell. Undo and redo that edit. Insert a Fraction template, replace its selected placeholder, and inspect the preview. Cancel a second draft and confirm the saved note is unchanged.
 
-## 中文
+
 
 ### 1. Mathematics and Equations / 中文
 

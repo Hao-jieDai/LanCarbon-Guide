@@ -3,7 +3,6 @@ title: Phase 2 Reference
 label: phase-2-reference
 ---
 
-## English
 
 Phase 1 and Phase 2 have been completed and accepted. Phase 2A covers the CodeMirror editor, 2B covers Edit/Preview, 2C covers mathematics, directives, roles and cross-references, and 2D covers testing and delivery. The formatting toolbar is included in this guide.
 
@@ -18,7 +17,7 @@ The former short tutorials and checklists are now collected into six pages:
 
 Edit always stores Markdown; switching modes does not rewrite it. Preview is an offline writing aid, and final publication is verified using the official Jupyter Book CLI. Images, attachments and bibliography management belong to Phase 3. The original workspace is backed up in Data Location before consolidation.
 
-## 中文
+
 
 Phase 1 与 Phase 2 已完成并验收。2A 对应 CodeMirror 编辑器，2B 对应 Edit/Preview，2C 对应公式、指令、行内角色和交叉引用，2D 对应测试与交付。后续增加的格式工具栏也已纳入本教程。
 

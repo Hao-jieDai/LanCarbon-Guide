@@ -12,7 +12,6 @@ keywords:
 label: notes-and-books
 ---
 
-## English
 
 ### Ordinary Notes
 
@@ -71,7 +70,7 @@ Use **Remove from Book** when you want to preserve the content. Use **Delete** o
 
 ---
 
-## 中文
+
 
 ### 普通 Notes
 

@@ -3,7 +3,6 @@ title: Phase 2 Acceptance
 label: phase-2d-acceptance
 ---
 
-## English
 
 ### 1. Phase 2D Acceptance
 
@@ -60,7 +59,7 @@ Phase 2B is accepted when this checklist and the Phase 2A checklist both pass.
 5. Rename a target page title without changing its Export Path. Confirm file links still work. Change a label deliberately and confirm old label references become unresolved.
 6. Switch between light/dark, Edit/Preview and other pages. Confirm readability, intact Markdown and normal editing. No network is needed for these steps.
 
-## 中文
+
 
 ### 1. Phase 2D Acceptance / 中文
 

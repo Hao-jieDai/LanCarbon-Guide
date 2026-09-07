@@ -3,11 +3,10 @@ title: Phase 4 Reference
 label: lancarbon-phase4-index
 ---
 
-## English
 
 Phase 4 turns exported Books into checked and built websites. Phase 4A provides whole-Book preflight; Phase 4B runs safe managed builds; Phase 4C controls the local saved website; Phase 4D supplies the complete acceptance checklist.
 
-## 中文
+
 
 :::{div}
 :class: lc-align-center

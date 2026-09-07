@@ -3,7 +3,6 @@ title: Publishing Readiness
 label: lancarbon-phase5-readiness
 ---
 
-## English
 
 ### Phase 5A checks
 
@@ -13,7 +12,7 @@ Git and GitHub CLI must be available in PATH. LanCarbon uses the account already
 
 A successful Book build is recommended now and required before Phase 5C publishes the real website. It does not block repository setup because Phase 5B prepares the remote destination without uploading Book files.
 
-## 中文
+
 
 ### Phase 5A 检查
 

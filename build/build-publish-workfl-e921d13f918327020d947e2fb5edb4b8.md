@@ -3,7 +3,6 @@ title: Build and Publishing Workflow
 label: lancarbon-phase5-build-publish-workflow
 ---
 
-## English
 
 ### Three independent outputs
 
@@ -21,7 +20,7 @@ Publish Website is used when the managed build is current. If the Book is new or
 
 A failed rebuild keeps the previous local website and stops before publishing. A network or GitHub failure keeps the previous online website. Open Pages and Open Repository remain available for inspection.
 
-## 中文
+
 
 ### 三种相互独立的输出
 

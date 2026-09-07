@@ -3,7 +3,6 @@ title: Phase 4 Acceptance
 label: lancarbon-phase4-acceptance
 ---
 
-## English
 
 ### Phase 4D checklist
 
@@ -17,7 +16,7 @@ label: lancarbon-phase4-acceptance
 
 Phase 4 is accepted when the checks, safe build, saved output and local website lifecycle all pass. Publishing to a remote host and executable notebooks remain later work.
 
-## 中文
+
 
 ### Phase 4D 验收清单
 
